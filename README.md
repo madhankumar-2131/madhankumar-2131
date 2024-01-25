@@ -7,7 +7,7 @@ Student @ SECE
 - 🤔 I’m looking for help with frients
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> ![Static Badge](https://img.shields.io/badge/instagram)(https://www.instagram.com/in/_madhan_2131/)[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/MADAHNKUMAR S/)
+<br /><img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/>
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
