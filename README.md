@@ -9,7 +9,6 @@ Student @ SECE
 - 📫 How to reach me :
 <br /><img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new.png" alt="instagram-new"/><img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp.png" alt="whatsapp"/><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
 - 😄 Pronouns: Techie
-- ⚡ Fun fact: I know Japanese.
 
 ### I code in
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
